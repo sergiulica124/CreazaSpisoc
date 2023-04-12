@@ -1,0 +1,3 @@
+import macaroane;
+main{
+  never}
